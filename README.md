@@ -32,3 +32,11 @@ sample output for 8 card nvidia GPU setup:
 8 fan speed=80
 8 temperature=26
 ```
+**To Compile**
+
+-Download latest Cuda Toolkit
+-Edit make file with proper tool kit and lib directories.
+
+run 
+
+``make``
