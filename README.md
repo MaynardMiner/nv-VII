@@ -1,5 +1,7 @@
 # nv-VII
 
+nv-VII is a simple nvml api script written in C, which is meant to be used instead of nvidia-smi to get fan speed and temperature for RTX series cards, which is currently not working.
+
 to use-
 
 Extract latest release.
