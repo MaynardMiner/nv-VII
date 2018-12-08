@@ -10,7 +10,8 @@ run:
 
 sample output for 8 card nvidia GPU setup:
 
-``0 fan speed=80
+```
+0 fan speed=80
 0 temperature=34
 1 fan speed=80
 1 temperature=30
@@ -27,4 +28,5 @@ sample output for 8 card nvidia GPU setup:
 7 fan speed=80
 7 temperature=28
 8 fan speed=80
-8 temperature=26``
+8 temperature=26
+```
